@@ -1,0 +1,11 @@
+moving_images_using_txt.py
+birdSpeciesClassification.py
+.ipynb_checkpoints
+
+val/
+train/
+lists/
+images/
+models/
+
+
